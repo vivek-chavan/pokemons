@@ -1,0 +1,113 @@
+[
+  {
+    "generation": "Generation I",
+    "id": 001,
+    "name": "Bulbasaur",
+    "url": "https://pokemondb.net/pokedex/bulbasaur",
+    "Species": "Seed Pokémon",
+"Gender":"87.5% male, 12.5% female",
+"Height":"0.7 m (2′04″)",
+"Weight":"6.9 kg (15.2 lbs)",
+"Attack":49,
+"Defense":49
+  },
+  {
+    "id": 004,
+    "name": "Charmander",
+    "url": "https://pokemondb.net/pokedex/charmander",
+    "Species": "Lizard Pokémon",
+"Gender":"87.5% male, 12.5% female",
+"Height":"0.6 m (2′00″)",
+"Weight":"8.5 kg (18.7 lbs)",
+"Attack":52,
+"Defense":43
+  },
+  {
+    "id": 006,
+    "name": "Charizard",
+    "url": "https://pokemondb.net/pokedex/charizard",
+    "Species": "Flame Pokémon",
+"Gender":"87.5% male, 12.5% female" ,
+"Height":"1.7 m (5′07″)",
+"Weight":"90.5 kg (199.5 lbs)",
+"Attack":84,
+"Defense":78
+  },
+  {
+    "id": 003,
+    "name": "Venusaur",
+    "url": "https://pokemondb.net/pokedex/venusaur",
+    "Species": "Seed Pokémon",
+"Gender":"87.5% male, 12.5% female",
+"Height":"2.0 m (6′07″)",
+"Weight":"100.0 kg (220.5 lbs)",
+"Attack":82,
+"Defense":83 
+  },
+  {
+    "id": 002,
+    "name": "Ivysaur",
+    "url": "https://pokemondb.net/pokedex/ivysaur",
+    "Species": "Seed Pokémon",
+"Gender":"87.5% male, 12.5% female",
+"Height":"1.0 m (3′03″)",
+"Weight":"13.0 kg (28.7 lbs)" ,
+"Attack":62,
+"Defense":63 
+  }
+  {
+    "id": 025,
+    "name": "Pikachu",
+    "url": "https://pokemondb.net/pokedex/pikachu",
+    "Species": "Mouse Pokémon",
+"Gender":"50% male, 50% female" ,
+"Height":"0.4 m (1′04″)",
+"Weight":"6.0 kg (13.2 lbs)",
+"Attack":55,
+"Defense":40
+  },
+  {
+    "id": 026,
+    "name": "Raichu",
+    "url": "https://pokemondb.net/pokedex/raichu",
+    "Species": "Mouse Pokémon",
+"Gender":"50% male, 50% female",
+"Height":"0.8 m (2′07″)",
+"Weight":"30.0 kg (66.1 lbs)",
+"Attack":90,
+"Defense":55
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "url": "https://pokemondb.net/pokedex/eevee",
+    "Species": "Evolution Pokémon",
+"Gender":"87.5% male, 12.5% female" ,
+"Height":"0.3 m (1′00″)",
+"Weight":"6.5 kg (14.3 lbs)",
+"Attack":55,
+"Defense":50
+  },
+  {
+    "id": 700,
+    "name": "Sylveon",
+    "url": "https://pokemondb.net/pokedex/sylveon",
+    "Species": "Intertwining Pokémon",
+"Gender":"87.5% male, 12.5% female",
+"Height":"1.0 m (3′03″)",
+"Weight":"23.5 kg (51.8 lbs)" ,
+"Attack":65,
+"Defense":65
+  },
+  {
+    "id": 196,
+    "name": "Espeon",
+    "url": "https://pokemondb.net/pokedex/espeon",
+    "Species": "Sun Pokémon",
+"Gender":"87.5% male, 12.5% female" ,
+"Height":"0.9 m (2′11″)",
+"Weight":"26.5 kg (58.4 lbs)",
+"Attack":65,
+"Defense":60
+  } 	
+]
